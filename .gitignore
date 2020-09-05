@@ -1,0 +1,18 @@
+target/
+data/
+
+# IDE
+.metals
+.bloop
+.vscode
+
+# FILES
+*.tar.gz
+
+# Crunchabse 2013 Snapshot
+crunchbase_2013_snapshot_20131212/
+
+# LOGS
+logs/
+
+
